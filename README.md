@@ -18,3 +18,5 @@ This project follows the **MVC (Model-View-Controller)** architecture and suppor
 - 🌐 HTML
 - 🎨 CSS
 - 🧩 Thymeleaf
+
+Video_link: https://drive.google.com/file/d/1UOzW9P5Bd-_Cd8VpzEILNEmM2XDBSuS0/view?usp=sharing
